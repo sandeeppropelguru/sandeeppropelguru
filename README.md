@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/@sandeep18896768" target="blank"><img src="https://img.shields.io/twitter/follow/@sandeep18896768?logo=twitter&style=for-the-badge" alt="@sandeep18896768" /></a> </p>
 
-- 🔭 I’m currently working on **C4C - HubSpot Integrations**
+- 🔭 I’m currently working on **ChatGPT Integrations with Custom Chatbot**
 
-- 🌱 I’m currently learning **Django Framework**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **QuickBooks plugins for WordPress**
 
-- 💬 Ask me about **Laravel, PHP, Python, Django, Flask, JavaScript, NodeJS, React, Angular**
+- 💬 Ask me about **AI/ML, Data Science, Laravel, PHP, Python, Django, Flask, JavaScript**
 
 - 📫 How to reach me **sandeep.kumar@cloudanalogy.com**
 
