@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **AI/ML, Data Science, Laravel, PHP, Python, Django, Flask, JavaScript**
 
-- 📫 How to reach me **sandeep.kumar@cloudanalogy.com**
+- 📫 How to reach me **sandeepyadav04072000@gmail.com**
 
 - 📄 Know about my experiences
 [https://docs.google.com/document/d/1K4Yh3KAc6Us_306xiyXOMJhPdiCh3Nkj/edit?usp=sharing&ouid=117279658232841676992&rtpof=true&sd=true](https://docs.google.com/document/d/1K4Yh3KAc6Us_306xiyXOMJhPdiCh3Nkj/edit?usp=sharing&ouid=117279658232841676992&rtpof=true&sd=true)
